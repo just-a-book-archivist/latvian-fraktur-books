@@ -1,13 +1,13 @@
-seite	art	stelle	anmerkung
-p002	scan	Seitenmitte	Bibliotheksstempel der University of Toronto (1968) und Signatur in Bleistift: nicht übernommen.
-p017	satz	Seitenfuß rechts	Bogensignatur „2“ (erste Seite des zweiten Bogens: 17 = 16 + 1). Nicht übernommen.
-p019	satz	Seitenfuß rechts	Bogensignatur „2*“ (Sekundasignatur). Nicht übernommen.
-p033	satz	Seitenfuß rechts	Bogensignatur „3“. Nicht übernommen.
-p035	satz	Seitenfuß rechts	Bogensignatur „3*“. Nicht übernommen.
-p049	satz	Seitenfuß rechts	Bogensignatur „4“. Nicht übernommen.
-p051	satz	Seitenfuß rechts	Bogensignatur „4*“. Nicht übernommen.
-p065	satz	Seitenfuß rechts	Bogensignatur „5“. Nicht übernommen.
-p067	satz	Seitenfuß rechts	Bogensignatur „5*“. Nicht übernommen.
+page	kind	place	note
+p002	copy	Seitenmitte	Bibliotheksstempel der University of Toronto (1968) und Signatur in Bleistift: nicht übernommen.
+p017	print	Seitenfuß rechts	Bogensignatur „2“ (erste Seite des zweiten Bogens: 17 = 16 + 1). Nicht übernommen.
+p019	print	Seitenfuß rechts	Bogensignatur „2*“ (Sekundasignatur). Nicht übernommen.
+p033	print	Seitenfuß rechts	Bogensignatur „3“. Nicht übernommen.
+p035	print	Seitenfuß rechts	Bogensignatur „3*“. Nicht übernommen.
+p049	print	Seitenfuß rechts	Bogensignatur „4“. Nicht übernommen.
+p051	print	Seitenfuß rechts	Bogensignatur „4*“. Nicht übernommen.
+p065	print	Seitenfuß rechts	Bogensignatur „5“. Nicht übernommen.
+p067	print	Seitenfuß rechts	Bogensignatur „5*“. Nicht übernommen.
 p007	ocr	Z. 2	Die OCR las die Zahl „I“ unter dem Titel als „1“; am Scan gesetzt (04.10.2026), vor der Galerie.
 p037	ocr	Z. 5, 9, 16	Die OCR verlor am Zeilenanfang Buchstaben und ein Wort: „a garaͤm“ („P“ gesetzt), „agrais“ (davor „Ko“ gesetzt), „à migla“ („K“ gesetzt; der Akzent über dem a ist noch nicht am Scan entschieden). Am Scan, 04.10.2026, vor der Galerie.
 p062	text	Z. 6	Deutsches Zitat im lettischen Gedicht: „Du, liebes Vaterland!“ (der Wanderer singt). Wie gedruckt übernommen; die drei Wörter sind deutsch, keine lettischen Formen.
