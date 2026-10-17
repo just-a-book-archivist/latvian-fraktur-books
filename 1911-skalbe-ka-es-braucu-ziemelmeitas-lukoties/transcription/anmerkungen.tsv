@@ -1,0 +1,11 @@
+seite	art	stelle	anmerkung
+p003	satz	Seitenfuß rechts	Bogensignatur „1*“ (Sekundasignatur, dritte Seite des ersten Bogens). Nicht übernommen (editionsrichtlinien.md, Bogensignatur). Die OCR las „1²“.
+p003	satz	Z. 3–4, „*   *“ / „  *“	Trenner aus drei Sternchen, zwei oben, eins mittig darunter; als zwei Zeilen „*   *“ / „  *“ geschrieben (editionsrichtlinien.md, Sternchengruppe). Die OCR las „*    *“ und „4*“.
+p023	scan	Seitenanfang	Die OCR las am Seitenanfang „*  *“; auf der Seite steht dort nichts, vermutlich Durchschlag der Rückseite. Entfernt.
+p019	satz	Seitenfuß rechts	Bogensignatur „2*“ (Sekundasignatur, dritte Seite des zweiten Bogens: 19 = 16 + 3). Nicht übernommen.
+p035	satz	Seitenfuß rechts	Bogensignatur „3*“ (Sekundasignatur, dritte Seite des dritten Bogens: 35 = 2 × 16 + 3). Nicht übernommen.
+p026	scan	rechter Rand, unten	Die OCR las Randschatten als „—.——“ und „— —“ auf eigenen Zeilen; kein Druck. Entfernt.
+p009	satz	Z. 29, Wort 1, „ꞩchai“	Vermutlich Setzerfehler: „ꞩchai“ ohne Zeichen auf dem i, sonst im Band „ꞩchaî“ (p013·2, p016·36, p020·5). Am Scan bestätigt (Frage „i mit Zeichen“, 6.10.2026). Bleibt wie gedruckt, da auch ohne Zeichen ein Wort (editionsrichtlinien.md, Druckschäden, Setzerfehler).
+p031	lesung	Z. 28, Wort 1, „loks“	Unsicher: am Scan auch als „lołs“ lesbar (zweiter Buchstabe l mit Strich oder Fraktur-k). „loks“ gesetzt nach dem Sinn („waꞧawihkꞩnes loks“, Regenbogen) und wie „loks“ p011·32, p012·6, p012·9. Die OCR las „lols“. 8.10.2026.
+p003	scan	Z. 8, vor „...“	Die OCR las „q...“; vor den drei Punkten steht ein Fleck, kein Buchstabe. Entfernt.
+p020	scan	Z. 3, nach „...“	Die OCR las am Zeilenende „ö“; dort steht ein Fleck, kein Buchstabe. Entfernt.

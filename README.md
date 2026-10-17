@@ -1,10 +1,9 @@
 # Latvian books in Fraktur — diplomatic transcriptions
 
-*Latviski:* šeit ir vecu latviešu grāmatu diplomātiskas transkripcijas — teksts tieši tāds, kāds
-tas iespiests fraktūrā, vecajā rakstībā. Katra lappuse no jauna nolasīta ar teksta atpazīšanu, un
-katrs vārds pārbaudīts pret skenējumu. Teksts netiek pielāgots mūsdienu rakstībai: `ſ`, `w`, `ꞩ`,
-`ꞥ`, `ł` un garumzīmes ar `h` paliek, kā iespiestas. Pirmā korektūra ir pabeigta; pieturzīmes un
-rindu pārnesumi vēl tiks pārbaudīti.
+*Latviski:* šeit ir vecu latviešu grāmatu diplomātiskas transkripcijas. Teksts ir atveidots
+tieši tā, kā tas iespiests fraktūrā, vecajā rakstībā; tas nav pielāgots mūsdienu rakstībai.
+Katrs vārds ir salīdzināts ar skenējumu. Pirmā korektūra ir pabeigta; pieturzīmes un rindu
+pārnesumi vēl tiks pārbaudīti.
 
 This repository holds transcriptions of Latvian books printed in Fraktur, in the orthography
 before the reform of the 1920s. Each page was read anew with OCR from the scans and corrected by
@@ -17,6 +16,7 @@ Latvian.
 | Folder | Book | State |
 |---|---|---|
 | [`1911-skalbe-latvju-dainu-izlase-iii`](1911-skalbe-latvju-dainu-izlase-iii/) | Kārlis Skalbe (ed.), *Latvju dainu izlase* III: *Dziesmas un jaunība*. Pēterburga: A. Gulbis, [1911]. Folk songs. | first proofreading complete |
+| [`1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties`](1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties/) | Kārlis Skalbe, *Kā es braucu Ziemeļmeitas lūkoties*. Pēterburga: A. Gulbis, [1911]. Fairy tale, prose. | first proofreading complete |
 
 Each folder has a `README.md` with the book's details, its source scans and what is still to be
 done.
