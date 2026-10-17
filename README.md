@@ -17,6 +17,7 @@ Latvian.
 |---|---|---|
 | [`1911-skalbe-latvju-dainu-izlase-iii`](1911-skalbe-latvju-dainu-izlase-iii/) | Kārlis Skalbe (ed.), *Latvju dainu izlase* III: *Dziesmas un jaunība*. Pēterburga: A. Gulbis, [1911]. Folk songs. | first proofreading complete |
 | [`1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties`](1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties/) | Kārlis Skalbe, *Kā es braucu Ziemeļmeitas lūkoties*. Pēterburga: A. Gulbis, [1911]. Fairy tale, prose. | first proofreading complete |
+| [`1911-skalbe-pazemigas-dveseles`](1911-skalbe-pazemigas-dveseles/) | Kārlis Skalbe, *Pazemīgas dvēseles*. Pēterburga: A. Gulbis, 1911. Four stories, prose. | first proofreading complete |
 
 Each folder has a `README.md` with the book's details, its source scans and what is still to be
 done.
