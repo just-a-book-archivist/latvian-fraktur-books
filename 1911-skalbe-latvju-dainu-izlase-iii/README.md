@@ -1,8 +1,8 @@
 # Kārlis Skalbe (ed.): *Latvju dainu izlase* III (1911)
 
 *Latviski:* Kārļa Skalbes sakārtotās „Latvju dainu izlases“ III daļa „Dziesmas un jaunība“,
-diplomātiska transkripcija vecajā rakstībā. Pirmā korektūra pabeigta: visi 6142 vārdi pārbaudīti
-pret skenējumu.
+diplomātiska transkripcija vecajā rakstībā. Pirmā korektūra ir pabeigta:
+visi 6142 vārdi ir salīdzināti ar skenējumu.
 
 A selection of Latvian folk songs (*dainas*) made by the poet Kārlis Skalbe (1879–1945), volume
 III, *Dſeeꞩmas un jauniba* (modern: *Dziesmas un jaunība*, "Songs and youth").
