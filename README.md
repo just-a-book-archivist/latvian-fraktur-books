@@ -46,10 +46,26 @@ What a transcription changes and keeps is set out in
 | | |
 |---|---|
 | `<book>/transcription/pNNN.txt` | **The text.** One file per printed page, lines as printed. Blank pages are empty files. |
-| `<book>/transcription/anmerkungen.tsv` | Notes on single places: printer's signatures, ornaments, stamps, damaged type, doubtful letters and how they were decided. Written in German during the work; columns: page, kind (`satz` = typesetting, `scan` = the copy or image), place, note. |
+| `<book>/transcription/anmerkungen.tsv` | Notes on single places: printer's signatures, ornaments, stamps, damaged type, doubtful letters and how they were decided. Columns and kinds are in English, the notes themselves in German (see below). |
 | `<book>/pages.tsv` | Printed page → image of the source scan. |
 | `lexicon/forms.tsv` | Every word form confirmed in the books, with volume and count. In the old orthography, as printed. |
 | `EDITORIAL_GUIDELINES.md` | The rules of the transcription. |
+
+### Reading `anmerkungen.tsv`
+
+Columns: `page` (file name without `.txt`), `kind`, `place`, `note`. The kinds:
+
+| kind | the note is about |
+|---|---|
+| `print` | the printed page itself: printer's signatures, ornaments, rules, spacing, damaged type |
+| `copy` | this copy or its scan: library stamps, owners' marks, pencil, cropped or soiled pages |
+| `marginalia` | marks by hand or stamps on the page, not part of the print |
+| `ocr` | a misreading of the OCR that was put right (the transcription follows the scan) |
+| `reading` | a doubtful letter and how it was decided |
+| `text` | the text itself, e.g. a German quotation inside a Latvian poem |
+
+In `place`, `Z.` means line (*Zeile*) and `Wort` word; `Z. 28, Wort 1` is the first word of line 28.
+The notes are written in German; a translation may follow.
 
 The front matter (cover, series lists) and the publisher's advertisements at the end of some
 volumes are not included yet; they were not part of the first proofreading.

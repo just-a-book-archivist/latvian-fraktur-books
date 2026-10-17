@@ -9,6 +9,7 @@ abstract: >-
   Ziemeļmeitas lūkoties, Pazemīgas dvēseles (1911) and Sapņi un teikas (1912).
 authors:
   - name: "just-a-book-archivist"
+repository-code: "https://github.com/just-a-book-archivist/latvian-fraktur-books"
 license: CC-BY-SA-4.0
 keywords:
   - Latvian
