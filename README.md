@@ -5,8 +5,9 @@ tieši tā, kā tas iespiests fraktūrā, vecajā rakstībā; tas nav pielāgots
 Katrs vārds ir salīdzināts ar skenējumu. Pirmā korektūra ir pabeigta; pieturzīmes un rindu
 pārnesumi vēl tiks pārbaudīti.
 
-This repository holds transcriptions of Latvian books printed in Fraktur, in the orthography
-before the reform of the 1920s. Each page was read anew with OCR from the scans and corrected by
+This repository holds transcriptions of Latvian books printed in Fraktur, in the orthographies
+before the reform of the 1920s: the Skalbe volumes of 1911–1912, and a book of 1850 in the
+older spelling before the 1870s. Each page was read anew with OCR from the scans and corrected by
 hand against them. The text is **diplomatic**: it keeps the page as printed — line breaks, long
 `ſ`, the stroked letters of the old orthography, accents — and is not normalised toward modern
 Latvian.
@@ -18,6 +19,7 @@ Latvian.
 | [`1911-skalbe-latvju-dainu-izlase-iii`](1911-skalbe-latvju-dainu-izlase-iii/) | Kārlis Skalbe (ed.), *Latvju dainu izlase* III: *Dziesmas un jaunība*. Pēterburga: A. Gulbis, [1911]. Folk songs. | first proofreading complete |
 | [`1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties`](1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties/) | Kārlis Skalbe, *Kā es braucu Ziemeļmeitas lūkoties*. Pēterburga: A. Gulbis, [1911]. Fairy tale, prose. | first proofreading complete |
 | [`1911-skalbe-pazemigas-dveseles`](1911-skalbe-pazemigas-dveseles/) | Kārlis Skalbe, *Pazemīgas dvēseles*. Pēterburga: A. Gulbis, 1911. Four stories, prose. | first proofreading complete |
+| [`1850-hugenberger-leelajs-kristaps`](1850-hugenberger-leelajs-kristaps/) | Kārlis Hūgenbergers, *Leelajs Kristaps jeb Kristus-nessejs*. Jelgava: J. W. Steffenhagen un dehls, 1850. The legend of St Christopher, verse. Older orthography, see its README. | first proofreading complete |
 | [`1912-skalbe-sapni-un-teikas`](1912-skalbe-sapni-un-teikas/) | Kārlis Skalbe, *Sapņi un teikas. Dzejoļi*. Pēterburga: A. Gulbis, [1912]. Poems. | first proofreading complete |
 
 Each folder has a `README.md` with the book's details, its source scans and what is still to be
@@ -25,8 +27,8 @@ done.
 
 ## How the texts are made
 
-1. **Scans** from the Internet Archive (University of Toronto copies), in one case three pages
-   from the National Library of Latvia's copy. `pages.tsv` in each book folder says which image
+1. **Scans** from the Internet Archive (University of Toronto copies) and from the National
+   Library of Latvia (the 1850 book, and three pages of *Pazemīgas dvēseles*). `pages.tsv` in each book folder says which image
    is which printed page, so every line can be checked against the print.
 2. **OCR** with Tesseract and the Fraktur model `frak2021`, with every dictionary switched off,
    so that nothing is "corrected" toward German or modern Latvian. The result is only a draft:
@@ -48,7 +50,8 @@ What a transcription changes and keeps is set out in
 | `<book>/transcription/pNNN.txt` | **The text.** One file per printed page, lines as printed. Blank pages are empty files. |
 | `<book>/transcription/anmerkungen.tsv` | Notes on single places: printer's signatures, ornaments, stamps, damaged type, doubtful letters and how they were decided. Columns and kinds are in English, the notes themselves in German (see below). |
 | `<book>/pages.tsv` | Printed page → image of the source scan. |
-| `lexicon/forms.tsv` | Every word form confirmed in the books, with volume and count. In the old orthography, as printed. |
+| `lexicon/forms.tsv` | Every word form confirmed in the Skalbe volumes, with volume and count, as printed. |
+| `lexicon/forms-1850.tsv` | The same for the book of 1850 ([`1850-hugenberger-leelajs-kristaps`](1850-hugenberger-leelajs-kristaps/)), kept apart because its spelling differs (`ſemme`, `kuꞧꞧa` against later `ſeme`, `kuꞧa`). |
 | `EDITORIAL_GUIDELINES.md` | The rules of the transcription. |
 
 ### Reading `anmerkungen.tsv`

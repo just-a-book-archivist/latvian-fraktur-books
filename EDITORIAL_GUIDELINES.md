@@ -16,9 +16,17 @@ prose, titles, separators) is in each book's `README.md`.
 | Long `ſ` | kept as printed. Turning `ſ` into `s` is a task for a reading edition, not for the transcription. |
 | Stroked `ſ` | written `ꞩ` / `Ꞩ` (U+A7A9 / U+A7A8), the character Unicode provides for Latvian Fraktur. The stroke marks the sound: `ſ` without stroke is voiced *z*, with stroke voiceless *s* (`Dſeeꞩmas` = modern *Dziesmas*); likewise `ſch` = *ž*, `ꞩch` = *š*. The print has the long form with a stroke, which has no character of its own; `ꞩ` stands for it. |
 | Other stroked letters | `ꞥ` / `Ꞥ` (U+A7A5 / U+A7A4) for *ņ*, `ł` for *ļ*, `ꞧ` for *ŗ*, `ꞣ` / `Ꞣ` for *ķ*, `ꞡ` / `Ꞡ` (U+A7A1 / U+A7A0) for *ģ*. Each stroke was decided at the image; OCR does not see them. |
-| Accents | circumflex `â ê î û` and grave `à è ì ù` kept as printed, and the diaeresis in `naïwi` (*Pazemīgas dvēseles*, p. 39). Each was decided at the image, also where the OCR showed none. |
+| Accents | circumflex `â ê î ô û` and grave `à è ì ù` kept as printed, and the diaeresis in `naïwi` (*Pazemīgas dvēseles*, p. 39). Each was decided at the image, also where the OCR showed none. |
 | Double oblique hyphen `⸗` | written as a plain `-`: a feature of the Fraktur type, not of the text. |
 | Antiqua | a few songs in *Latvju dainu izlase* III are set in roman type, in Latgalian spelling with macrons and hooks (`ū ī š á`, `ņ` with comma below, U+0146 — not the Fraktur `ꞥ`). Written as printed; the change of type is not marked in the text but noted in `anmerkungen.tsv`. |
+
+## The older spelling (the book of 1850)
+
+| Matter | Rule |
+|---|---|
+| Doubled consonants | kept as printed (`kuꞧꞧa`, `ſemme`); never reduced to the later single letter. |
+| Apostrophe | for a dropped vowel (`mann'`, `Wiꞩꞩ'augſtakam`), written as the straight `'`. |
+| Variant spellings | the same word or phrase spelt in different ways stays as printed each time. |
 
 ## Lines and spaces
 
