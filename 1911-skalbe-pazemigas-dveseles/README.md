@@ -27,7 +27,8 @@ were removed.
 **First proofreading complete** (13 October 2026): every word compared with its image on the
 scan and confirmed or corrected; every stroke and accent decided at the image. Now 8,792 words.
 
-Not yet included: the cover and the title page.
+**Cover** (17 October 2026): transcribed and checked at the image, in `transcription/cover.txt`.
+The title page is p. 1.
 
 ## Notes on the print
 
@@ -51,6 +52,8 @@ book:
 - **Section break:** the three asterisks of the print (two above, one below in the middle) are
   written as two lines, `*   *` and `  *`, with a blank line before and after.
 - **Half-titles** (pp. 3, 21, 29, 43) as printed, line by line.
+- **Cover:** `transcription/cover.txt`, with the series title „Uniwerſala Biblioteka“ at the
+  top; its notes are under `cover` in `anmerkungen.tsv`, its image in `pages.tsv`.
 
 ## The scans
 
