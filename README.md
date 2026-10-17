@@ -2,8 +2,8 @@
 
 *Latviski:* šeit ir vecu latviešu grāmatu diplomātiskas transkripcijas. Teksts ir atveidots
 tieši tā, kā tas iespiests fraktūrā, vecajā rakstībā; tas nav pielāgots mūsdienu rakstībai.
-Katrs vārds ir salīdzināts ar skenējumu. Pirmā korektūra ir pabeigta; pieturzīmes un rindu
-pārnesumi vēl tiks pārbaudīti.
+Katrs vārds ir salīdzināts ar skenējumu. Pirmā korektūra ir pabeigta. Grāmatai „Pazemīgas
+dvēseles“ ir pārbaudītas arī pieturzīmes un rindas; pārējām grāmatām tas vēl tiks darīts.
 
 This repository holds transcriptions of Latvian books printed in Fraktur, in the orthographies
 before the reform of the 1920s: the Skalbe volumes of 1911–1912, and a book of 1850 in the
@@ -18,7 +18,7 @@ Latvian.
 |---|---|---|
 | [`1911-skalbe-latvju-dainu-izlase-iii`](1911-skalbe-latvju-dainu-izlase-iii/) | Kārlis Skalbe (ed.), *Latvju dainu izlase* III: *Dziesmas un jaunība*. Pēterburga: A. Gulbis, [1911]. Folk songs. | first proofreading complete |
 | [`1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties`](1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties/) | Kārlis Skalbe, *Kā es braucu Ziemeļmeitas lūkoties*. Pēterburga: A. Gulbis, [1911]. Fairy tale, prose. | first proofreading complete |
-| [`1911-skalbe-pazemigas-dveseles`](1911-skalbe-pazemigas-dveseles/) | Kārlis Skalbe, *Pazemīgas dvēseles*. Pēterburga: A. Gulbis, 1911. Four stories, prose. | first proofreading complete |
+| [`1911-skalbe-pazemigas-dveseles`](1911-skalbe-pazemigas-dveseles/) | Kārlis Skalbe, *Pazemīgas dvēseles*. Pēterburga: A. Gulbis, 1911. Four stories, prose. | second proofreading complete (punctuation and lines) |
 | [`1850-hugenberger-leelajs-kristaps`](1850-hugenberger-leelajs-kristaps/) | Kārlis Hūgenbergers, *Leelajs Kristaps jeb Kristus-nessejs*. Jelgava: J. W. Steffenhagen un dehls, 1850. The legend of St Christopher, verse. Older orthography, see its README. | first proofreading complete |
 | [`1912-skalbe-sapni-un-teikas`](1912-skalbe-sapni-un-teikas/) | Kārlis Skalbe, *Sapņi un teikas. Dzejoļi*. Pēterburga: A. Gulbis, [1912]. Poems. | first proofreading complete |
 
@@ -36,8 +36,10 @@ done.
 3. **First proofreading:** every word of a book is shown as a cut-out from the scan next to its
    transcription and confirmed or corrected by a person; each stroke and accent is decided at the
    image. Nothing in the text was corrected automatically.
-4. **Still to come:** punctuation, line breaks and lost or doubled lines (which a word-by-word
-   check does not see), a cross-check between the four Skalbe volumes, and typeset editions in
+4. **Second proofreading:** every printed line is shown as an image above its transcription and
+   checked for what a word-by-word check does not see: punctuation, hyphens, line breaks,
+   paragraph indents, lost or doubled lines. Done for *Pazemīgas dvēseles*; the other books follow.
+5. **Still to come:** a cross-check between the four Skalbe volumes, and typeset editions in
    the old orthography, in the standard of 1922 and in today's spelling.
 
 What a transcription changes and keeps is set out in

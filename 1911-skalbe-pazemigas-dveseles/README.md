@@ -1,8 +1,8 @@
 # Kārlis Skalbe: *Pazemīgas dvēseles* (1911)
 
 *Latviski:* Kārļa Skalbes četri stāsti „Pazemīgas dvēseles“, diplomātiska transkripcija vecajā
-rakstībā. Pirmā korektūra ir pabeigta:
-visi 8787 vārdi ir salīdzināti ar skenējumu.
+rakstībā. Pirmā un otrā korektūra ir pabeigtas:
+visi 8792 vārdi un visas 1292 rindas ir salīdzinātas ar skenējumu.
 
 Four stories in prose by Kārlis Skalbe (1879–1945), "Humble souls".
 
@@ -17,11 +17,28 @@ Four stories in prose by Kārlis Skalbe (1879–1945), "Humble souls".
 
 ## State
 
-**First proofreading complete** (13 October 2026): all 8,787 words compared with their image on
-the scan and confirmed or corrected; every stroke and accent decided at the image.
+**Second proofreading complete** (17 October 2026): all 1,292 printed lines compared with their
+image on the scan, for punctuation, hyphens, line breaks, paragraph indents and lost or doubled
+lines. On the way 70 words were corrected (mostly strokes and accents the first pass had
+missed) and 94 places of punctuation and hyphens; the first line of p. 23, lost when the text
+was set up, was put back, and six lines of digits that the OCR had made of specks and asterisks
+were removed.
 
-Not yet checked: punctuation, line breaks, lost or doubled lines, paragraph indents. Not yet
-included: the cover.
+**First proofreading complete** (13 October 2026): every word compared with its image on the
+scan and confirmed or corrected; every stroke and accent decided at the image. Now 8,792 words.
+
+Not yet included: the cover and the title page.
+
+## Notes on the print
+
+Two kinds of damaged type are easy to misread; both are kept as what the printer meant:
+
+- A worn **`k`** whose small stroke at the stem did not print looks like **`l`** (`kà` looking
+  like `là`, p. 32 and 41).
+- A **circumflex** whose left stroke did not print looks like a **grave**: `brihdî` on p. 33
+  looks like `brihdì`. A real grave sits further towards the middle of the letter.
+
+The places where the reading was in doubt are noted in `transcription/anmerkungen.tsv`.
 
 ## Layout of the files
 
