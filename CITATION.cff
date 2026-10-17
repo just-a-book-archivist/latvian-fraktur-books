@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these transcriptions, please cite them as below."
+type: dataset
+title: "Latvian books in Fraktur: diplomatic transcriptions"
+abstract: >-
+  Diplomatic transcriptions of Latvian books printed in Fraktur in the orthography
+  before the reform of the 1920s, re-OCRed from the scans and corrected by hand
+  against them, word by word: Kārlis Skalbe, Latvju dainu izlase III, Kā es braucu
+  Ziemeļmeitas lūkoties, Pazemīgas dvēseles (1911) and Sapņi un teikas (1912).
+authors:
+  - name: "just-a-book-archivist"
+license: CC-BY-SA-4.0
+keywords:
+  - Latvian
+  - Fraktur
+  - old orthography
+  - diplomatic transcription
+  - Kārlis Skalbe
+  - dainas
