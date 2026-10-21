@@ -32,6 +32,13 @@ scan and confirmed or corrected; every stroke and accent decided at the image.
 The printed **cover** is in `transcription/cover.txt`, checked at the scan (21 October 2026).
 Not included: the series list and the publisher's advertisements (pp. 41–42).
 
+## PDFs and plain text
+
+Typeset versions are on the Internet Archive (22 October 2026): <https://archive.org/details/skalbe-1911-ka-es-braucu-ziemelmeitas-lukoties-edition>. A reading version (paragraphs,
+line-end hyphens resolved) and a diplomatic version (page by page, line by line), each in roman
+type and in Fraktur, as PDF/A, and both as plain text. In the Fraktur PDFs the stroked letters
+are drawn over their base letter, so their text layer holds the base letter (`ſ` for `ꞩ`).
+
 ## Layout of the files
 
 The general rules are in [`../EDITORIAL_GUIDELINES.md`](../EDITORIAL_GUIDELINES.md). In this
