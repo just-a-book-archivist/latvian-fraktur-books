@@ -29,7 +29,8 @@ punctuation and hyphens; specks that the OCR had read as letters or digits were 
 **First proofreading complete** (8 October 2026): every word compared with its image on the
 scan and confirmed or corrected; every stroke and accent decided at the image.
 
-Not yet included: the cover, the series list and the publisher's advertisements (pp. 41–42).
+The printed **cover** is in `transcription/cover.txt`, checked at the scan (21 October 2026).
+Not included: the series list and the publisher's advertisements (pp. 41–42).
 
 ## Layout of the files
 
