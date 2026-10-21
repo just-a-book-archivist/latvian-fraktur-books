@@ -1,8 +1,8 @@
 # Kārlis Skalbe: *Kā es braucu Ziemeļmeitas lūkoties* (1911)
 
 *Latviski:* Kārļa Skalbes pasaka „Kā es braucu Ziemeļmeitas lūkoties“, diplomātiska transkripcija
-vecajā rakstībā. Pirmā korektūra ir pabeigta:
-visi 6877 vārdi ir salīdzināti ar skenējumu.
+vecajā rakstībā. Pirmā un otrā korektūra ir pabeigtas:
+visi 6873 vārdi un visas 1082 rindas ir salīdzinātas ar skenējumu.
 
 A literary fairy tale in prose by Kārlis Skalbe (1879–1945), "How I went to woo the Northern
 Maiden".
@@ -20,11 +20,16 @@ The print spells the title `brauzu`; the folder name follows the modern *braucu*
 
 ## State
 
-**First proofreading complete** (8 October 2026): all 6,877 words compared with their image on
-the scan and confirmed or corrected; every stroke and accent decided at the image.
+**Second proofreading complete** (21 October 2026): all 1,082 printed lines compared with their
+image on the scan, for punctuation, hyphens, line breaks, paragraph indents and lost or doubled
+lines. On the way about 100 words were corrected (mostly strokes and accents the first pass had
+missed, and 35 words where the OCR had read the Fraktur `U` as `A`) and about 100 places of
+punctuation and hyphens; specks that the OCR had read as letters or digits were removed.
 
-Not yet checked: punctuation, line breaks, lost or doubled lines, paragraph indents. Not yet
-included: the cover, the series list and the publisher's advertisements (pp. 41–42).
+**First proofreading complete** (8 October 2026): every word compared with its image on the
+scan and confirmed or corrected; every stroke and accent decided at the image.
+
+Not yet included: the cover, the series list and the publisher's advertisements (pp. 41–42).
 
 ## Layout of the files
 
