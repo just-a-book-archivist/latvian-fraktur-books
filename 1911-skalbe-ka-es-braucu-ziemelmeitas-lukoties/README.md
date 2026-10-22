@@ -39,6 +39,9 @@ line-end hyphens resolved) and a diplomatic version (page by page, line by line)
 type and in Fraktur, as PDF/A, and both as plain text. In the Fraktur PDFs the stroked letters
 are drawn over their base letter, so their text layer holds the base letter (`ſ` for `ꞩ`).
 
+The repository as it stood at this release is archived on Zenodo, citable as
+[doi:10.5281/zenodo.23572163](https://doi.org/10.5281/zenodo.23572163).
+
 ## Layout of the files
 
 The general rules are in [`../EDITORIAL_GUIDELINES.md`](../EDITORIAL_GUIDELINES.md). In this
