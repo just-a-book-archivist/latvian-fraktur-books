@@ -32,6 +32,17 @@ The printed **cover** is in `transcription/cover.txt`, checked at the scan (24 O
 series number `86` at its left edge, half hidden under a library strip, is not reproduced.
 Not included: the series list and the publisher's advertisements (pp. 85–86).
 
+## PDFs and plain text
+
+Typeset versions are attached to the release [`sapni-2-lesung`](https://github.com/just-a-book-archivist/latvian-fraktur-books/releases/tag/sapni-2-lesung) and on the Internet Archive (24 October 2026): <https://archive.org/details/skalbe-1912-sapni-un-teikas-edition>. A reading version (the poems
+set anew, every line of verse on a line of its own, a table of contents at the end) and a
+diplomatic version (page by page, line by line), each in roman type and in Fraktur, as PDF/A,
+and both as plain text. In the Fraktur PDFs the stroked letters are drawn over their base
+letter, so their text layer holds the base letter (`ſ` for `ꞩ`).
+
+The repository as it stood at this release is archived on Zenodo, citable as
+[doi:10.5281/zenodo.23623980](https://doi.org/10.5281/zenodo.23623980).
+
 ## Layout of the files
 
 The general rules are in [`../EDITORIAL_GUIDELINES.md`](../EDITORIAL_GUIDELINES.md). In this
