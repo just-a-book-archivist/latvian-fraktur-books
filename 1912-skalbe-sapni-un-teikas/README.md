@@ -28,7 +28,9 @@ volumes and corrected at the image (e.g. `ꞩapꞥo` for `ꞩapno`).
 **First proofreading complete** (10 October 2026): every word compared with its image on the
 scan and confirmed or corrected; every stroke and accent decided at the image.
 
-Not yet included: the cover, the series list and the publisher's advertisements (pp. 85–86).
+The printed **cover** is in `transcription/cover.txt`, checked at the scan (24 October 2026); the
+series number `86` at its left edge, half hidden under a library strip, is not reproduced.
+Not included: the series list and the publisher's advertisements (pp. 85–86).
 
 ## Layout of the files
 
