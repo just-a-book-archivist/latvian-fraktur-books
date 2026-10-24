@@ -37,8 +37,9 @@ Not included: the series list and the publisher's advertisements (pp. 85–86).
 The general rules are in [`../EDITORIAL_GUIDELINES.md`](../EDITORIAL_GUIDELINES.md). In this
 book:
 
-- **Verse without indent**, one line of verse per line. The print indents the first line of each
-  stanza; that is not reproduced yet.
+- **One line of verse per line.** The first line of each stanza is indented by four spaces, as
+  in the print; the other lines have no indent. A stanza that runs on from the previous page
+  starts without indent.
 - **Stanzas** are separated by a blank line.
 - **Poem titles** on a line of their own with a blank line before and after. Titles of several
   lines, numbers over parts of a poem (`I`, `II` …) and dedications in brackets stay together as
