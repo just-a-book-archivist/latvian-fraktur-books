@@ -1,8 +1,8 @@
 # Kārlis Skalbe: *Sapņi un teikas. Dzejoļi* (1912)
 
 *Latviski:* Kārļa Skalbes dzejoļu krājums „Sapņi un teikas“, diplomātiska transkripcija vecajā
-rakstībā. Pirmā korektūra ir pabeigta:
-visi 5266 vārdi ir salīdzināti ar skenējumu.
+rakstībā. Pirmā un otrā korektūra ir pabeigtas:
+visi 5263 vārdi un visas 1229 rindas ir salīdzinātas ar skenējumu.
 
 Poems by Kārlis Skalbe (1879–1945), "Dreams and legends".
 
@@ -17,11 +17,18 @@ Poems by Kārlis Skalbe (1879–1945), "Dreams and legends".
 
 ## State
 
-**First proofreading complete** (10 October 2026): all 5,266 words compared with their image on
-the scan and confirmed or corrected; every stroke and accent decided at the image.
+**Second proofreading complete** (24 October 2026): all 1,229 printed lines compared with their
+image on the scan, for punctuation, line breaks, stanza breaks and lost or doubled lines. On the
+way about 45 words were corrected (mostly strokes and accents the first pass had missed;
+`ꞩkuhpſtit` had been read with a `y`, `feja` "fairy" with a long `ſ`, and `debeꞩîs` had been split
+into three pieces) and about 25 places of punctuation, most of them `...` that the OCR had read
+as `..` or `.`. Before that, 27 words were checked against the same words in the other Skalbe
+volumes and corrected at the image (e.g. `ꞩapꞥo` for `ꞩapno`).
 
-Not yet checked: punctuation, line breaks, lost or doubled lines, stanzas. Not yet included: the
-cover, the series list and the publisher's advertisements (pp. 85–86).
+**First proofreading complete** (10 October 2026): every word compared with its image on the
+scan and confirmed or corrected; every stroke and accent decided at the image.
+
+Not yet included: the cover, the series list and the publisher's advertisements (pp. 85–86).
 
 ## Layout of the files
 
