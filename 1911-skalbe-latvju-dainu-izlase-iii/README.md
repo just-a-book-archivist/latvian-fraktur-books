@@ -24,6 +24,9 @@ pass about 85 words were corrected, nearly all strokes and accents the first pas
 (`ꞥ` in the diminutive, `ꞣ`, `ł`); 17 words beginning with `U` had been read with `A`; a few words
 had been misread (`labaki`, `Patihk`, `loka`, `runajot`) and three had lost their first letter.
 The asterisk between songs is always a single `*` (three had been read as `.` or `*.`, corrected when the PDFs were set).
+Afterwards (25 October 2026) the text was checked against the same words in the other Skalbe
+volumes; one word was corrected at the image (`ꞩchꞣehres`, p. 27; the PDFs of the release still
+have `ꞩchkehres`).
 
 **First proofreading complete** (4 October 2026): all 6,142 words compared with their image on
 the scan and confirmed or corrected; every stroke and accent decided at the image.
