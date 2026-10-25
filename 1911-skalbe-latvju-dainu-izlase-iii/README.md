@@ -23,7 +23,7 @@ image on the scan, for punctuation, line breaks, stanza breaks and lost or doubl
 pass about 85 words were corrected, nearly all strokes and accents the first pass had missed
 (`ꞥ` in the diminutive, `ꞣ`, `ł`); 17 words beginning with `U` had been read with `A`; a few words
 had been misread (`labaki`, `Patihk`, `loka`, `runajot`) and three had lost their first letter.
-The asterisk between songs is always a single `*`.
+The asterisk between songs is always a single `*` (three had been read as `.` or `*.`, corrected when the PDFs were set).
 
 **First proofreading complete** (4 October 2026): all 6,142 words compared with their image on
 the scan and confirmed or corrected; every stroke and accent decided at the image.
@@ -31,6 +31,15 @@ the scan and confirmed or corrected; every stroke and accent decided at the imag
 The printed **cover** is in `transcription/cover.txt`, checked at the scan (25 October 2026); the
 series number `79` at its left edge, half hidden under a library strip, is not reproduced.
 Not included: the series list and the publisher's advertisements (pp. 73–74).
+
+## PDFs and plain text
+
+Typeset versions are attached to the release [`dainas-2-lesung`](https://github.com/just-a-book-archivist/latvian-fraktur-books/releases/tag/dainas-2-lesung) and on the Internet Archive (25 October 2026): <https://archive.org/details/skalbe-1911-latvju-dainu-izlase-iii-edition>. A reading version (the 312 songs set anew, every
+line of verse on a line of its own, an asterisk between two songs, each song in one piece) and a
+diplomatic version (page by page, line by line), each in roman type and in Fraktur, as PDF/A,
+and both as plain text. In the Fraktur PDFs the stroked letters are drawn over their base
+letter, so their text layer holds the base letter (`ſ` for `ꞩ`); the one song printed in roman
+type (p. 40) stays in roman type there.
 
 ## Layout of the files
 

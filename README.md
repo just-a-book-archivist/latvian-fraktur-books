@@ -18,7 +18,7 @@ Latvian.
 
 | Folder | Book | State |
 |---|---|---|
-| [`1911-skalbe-latvju-dainu-izlase-iii`](1911-skalbe-latvju-dainu-izlase-iii/) | Kārlis Skalbe (ed.), *Latvju dainu izlase* III: *Dziesmas un jaunība*. Pēterburga: A. Gulbis, [1911]. Folk songs. | second proofreading complete (punctuation and lines), with the cover |
+| [`1911-skalbe-latvju-dainu-izlase-iii`](1911-skalbe-latvju-dainu-izlase-iii/) | Kārlis Skalbe (ed.), *Latvju dainu izlase* III: *Dziesmas un jaunība*. Pēterburga: A. Gulbis, [1911]. Folk songs. | complete: both proofreadings and the cover; PDFs in the release [`dainas-2-lesung`](https://github.com/just-a-book-archivist/latvian-fraktur-books/releases/tag/dainas-2-lesung) |
 | [`1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties`](1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties/) | Kārlis Skalbe, *Kā es braucu Ziemeļmeitas lūkoties*. Pēterburga: A. Gulbis, [1911]. Fairy tale, prose. | complete: both proofreadings and the cover; PDFs in the release [`ziemelmeitas-2-lesung`](https://github.com/just-a-book-archivist/latvian-fraktur-books/releases/tag/ziemelmeitas-2-lesung) |
 | [`1911-skalbe-pazemigas-dveseles`](1911-skalbe-pazemigas-dveseles/) | Kārlis Skalbe, *Pazemīgas dvēseles*. Pēterburga: A. Gulbis, 1911. Four stories, prose. | second proofreading complete (punctuation and lines) |
 | [`1850-hugenberger-leelajs-kristaps`](1850-hugenberger-leelajs-kristaps/) | Kārlis Hūgenbergers, *Leelajs Kristaps jeb Kristus-nessejs*. Jelgava: J. W. Steffenhagen un dehls, 1850. The legend of St Christopher, verse. Older orthography, see its README. | first proofreading complete |
