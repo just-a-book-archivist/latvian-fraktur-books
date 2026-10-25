@@ -1,8 +1,8 @@
 # Kārlis Skalbe (ed.): *Latvju dainu izlase* III (1911)
 
 *Latviski:* Kārļa Skalbes sakārtotās „Latvju dainu izlases“ III daļa „Dziesmas un jaunība“,
-diplomātiska transkripcija vecajā rakstībā. Pirmā korektūra ir pabeigta:
-visi 6142 vārdi ir salīdzināti ar skenējumu.
+diplomātiska transkripcija vecajā rakstībā. Pirmā un otrā korektūra ir pabeigtas:
+visi 6142 vārdi un visas 2145 rindas ir salīdzinātas ar skenējumu.
 
 A selection of Latvian folk songs (*dainas*) made by the poet Kārlis Skalbe (1879–1945), volume
 III, *Dſeeꞩmas un jauniba* (modern: *Dziesmas un jaunība*, "Songs and youth").
@@ -18,11 +18,19 @@ III, *Dſeeꞩmas un jauniba* (modern: *Dziesmas un jaunība*, "Songs and youth"
 
 ## State
 
+**Second proofreading complete** (25 October 2026): all 2,145 printed lines compared with their
+image on the scan, for punctuation, line breaks, stanza breaks and lost or doubled lines. Over the
+pass about 85 words were corrected, nearly all strokes and accents the first pass had missed
+(`ꞥ` in the diminutive, `ꞣ`, `ł`); 17 words beginning with `U` had been read with `A`; a few words
+had been misread (`labaki`, `Patihk`, `loka`, `runajot`) and three had lost their first letter.
+The asterisk between songs is always a single `*`.
+
 **First proofreading complete** (4 October 2026): all 6,142 words compared with their image on
 the scan and confirmed or corrected; every stroke and accent decided at the image.
 
-Not yet checked: punctuation, line breaks, lost or doubled lines. Not yet included: the cover and
-the publisher's advertisements (pp. 73–74).
+The printed **cover** is in `transcription/cover.txt`, checked at the scan (25 October 2026); the
+series number `79` at its left edge, half hidden under a library strip, is not reproduced.
+Not included: the series list and the publisher's advertisements (pp. 73–74).
 
 ## Layout of the files
 
