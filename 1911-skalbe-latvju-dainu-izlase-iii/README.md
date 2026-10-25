@@ -41,6 +41,9 @@ and both as plain text. In the Fraktur PDFs the stroked letters are drawn over t
 letter, so their text layer holds the base letter (`ſ` for `ꞩ`); the one song printed in roman
 type (p. 40) stays in roman type there.
 
+The repository as it stood at this release is archived on Zenodo, citable as
+[doi:10.5281/zenodo.23650147](https://doi.org/10.5281/zenodo.23650147).
+
 ## Layout of the files
 
 The general rules are in [`../EDITORIAL_GUIDELINES.md`](../EDITORIAL_GUIDELINES.md). In this
