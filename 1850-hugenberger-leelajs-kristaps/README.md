@@ -1,8 +1,8 @@
 # Kārlis Hūgenbergers: *Leelajs Kristaps jeb Kristus-nessejs* (1850)
 
 *Latviski:* Kārļa Hūgenbergera dzejojums „Lielais Kristaps jeb Kristus nesējs“, diplomātiska
-transkripcija vecajā rakstībā. Pirmā korektūra ir pabeigta:
-visi 4384 vārdi ir salīdzināti ar skenējumu.
+transkripcija vecajā rakstībā. Pirmā un otrā korektūra ir pabeigtas:
+visi 4364 vārdi un visas 975 rindas ir salīdzinātas ar skenējumu.
 
 The legend of St Christopher told in verse, by Kārlis Hūgenbergers (Karl Friedrich Jacob
 Hugenberger, 1784–1860), pastor at Ārlava. Modern title: *Lielais Kristaps jeb Kristus nesējs*,
@@ -10,8 +10,8 @@ Hugenberger, 1784–1860), pastor at Ārlava. Modern title: *Lielais Kristaps je
 
 | | |
 |---|---|
-| Title | *Leelajs Kriſtaps jeb Kriſtus-neꞩꞩejs. Ꞩwehta paꞩazziꞥa* ("a holy legend"), by the pastor of Ārlava. The title page itself is not transcribed yet, see below. |
-| Published | Jelgava (Mitau): J. W. Steffenhagen un dehls, 1850. |
+| Title | On the cover `Leelajs Kriſtaps`, on the title page `Kriſtus-neꞩꞩejs. Ꞩwehta paꞩazziꞥa` ("a holy legend"), `no Ahrlawas mahzitaja Kahrła Hugenberger` ("by the pastor of Ārlava, Karl Hugenberger"). |
+| Published | `Isdohts no Latweeꞩchu draugu beedribas` — published by the Latvian Literary Society (Latviešu draugu biedrība). Jelgava (Mitau), printed by J. W. Steffenhagen un dehls, 1850. Censor's permit Riga, 17 November 1850. |
 | Contents | 23 songs (`Pirma dſeeꞩma.`, `Ohtra dſeeꞩma.` …) in stanzas of four lines, pp. 3–56. |
 | Language | Latvian in the orthography **before the reform of the 1870s**, Fraktur. |
 | Source | National Library of Latvia, viewed page by page: <https://gramatas.lndb.lv/periodika2-viewer/?lang=en#panel:pp\|issue:669154\|page:1> |
@@ -32,12 +32,19 @@ Its word forms are listed apart from the Skalbe volumes, in `lexicon/forms-1850.
 
 ## State
 
-**First proofreading complete** (17 October 2026): all 4,384 words compared with their image on
-the scan and confirmed or corrected; every stroke and accent decided at the image.
+**Second proofreading complete** (27 October 2026): all 975 printed lines of the text compared
+with their image on the scan, for punctuation, hyphens, line breaks and lost or split words. On
+the way about 47 words were corrected (mostly strokes and accents the first pass had missed) and
+43 places of punctuation; six words the OCR had not read at all were put back, eleven words it had
+split were joined again, and five blank lines that had fallen inside stanzas were removed: every
+stanza has four lines (238 stanzas, 952 lines of verse, 23 song headings).
 
-Not yet checked: punctuation, line breaks, lost or doubled lines. Not yet included: the title
-page (p. 1) and the censor's permit on its back (p. 2, in German), which still have to be read
-properly from the images.
+The first proofreading (17 October 2026) compared every word with its image on the scan.
+
+The cover (`cover.txt`), the title page (p. 1) and the censor's permit on its back (p. 2, in
+German) were read at the image. The cover is very faint except for its title; where it does not
+show a stroke, its forms follow the title page. The title page has a faint `no` on a line of its
+own, easily missed in the show-through.
 
 The copy is worn, with strong show-through of the other side on every page; a few marks that
 came from it are noted in `transcription/anmerkungen.tsv`.
