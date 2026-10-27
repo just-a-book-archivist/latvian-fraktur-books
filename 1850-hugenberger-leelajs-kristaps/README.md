@@ -49,13 +49,26 @@ own, easily missed in the show-through.
 The copy is worn, with strong show-through of the other side on every page; a few marks that
 came from it are noted in `transcription/anmerkungen.tsv`.
 
+## PDFs and plain text
+
+Typeset versions are attached to the release [`kristaps-2-lesung`](https://github.com/just-a-book-archivist/latvian-fraktur-books/releases/tag/kristaps-2-lesung) and on the Internet
+Archive (27 October 2026): <https://archive.org/details/hugenberger-1850-leelajs-kristaps-edition>. A reading version (the 23 songs set anew, every line of verse
+on a line of its own, the first line of each stanza indented as in the print, with a table of
+contents) and a diplomatic version (the cover, the title page, the censor's permit and every
+printed page line by line), each in roman type and in Fraktur, as PDF/A, and both as plain text.
+In the Fraktur PDFs the stroked letters are drawn over their base letter, so their text layer
+holds the base letter (`ſ` for `ꞩ`).
+
+The repository as it stood at this release is archived on Zenodo, citable as
+[doi:10.5281/zenodo.23703780](https://doi.org/10.5281/zenodo.23703780).
+
 ## Layout of the files
 
 The general rules are in [`../EDITORIAL_GUIDELINES.md`](../EDITORIAL_GUIDELINES.md). In this
 book:
 
 - **Verse without indent**, one line of verse per line. The print indents the first line of each
-  stanza; that is not reproduced yet.
+  stanza; the transcription does not, the reading version of the PDFs does.
 - **Stanzas** are separated by a blank line.
 - **Song headings** (`Pirma dſeeꞩma.`) on a line of their own, followed by a blank line.
 
