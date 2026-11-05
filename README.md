@@ -3,13 +3,14 @@
 *Latviski:* šeit ir vecu latviešu grāmatu diplomātiskas transkripcijas. Teksts ir atveidots
 tieši tā, kā tas iespiests fraktūrā, vecajā rakstībā; tas nav pielāgots mūsdienu rakstībai.
 Katrs vārds ir salīdzināts ar skenējumu. Grāmatām „Latvju dainu izlase“, „Kā es braucu
-Ziemeļmeitas lūkoties“, „Pazemīgas dvēseles“ un „Sapņi un teikas“ ir pārbaudītas arī pieturzīmes
+Ziemeļmeitas lūkoties“, „Pazemīgas dvēseles“, „Sapņi un teikas“, „Lielais Kristaps“ un
+„Sprīdītis“ ir pārbaudītas arī pieturzīmes
 un rindas; pārējām
 grāmatām tas vēl tiks darīts. Salikti izdevumi (PDF) ir sadaļā „Releases“.
 
 This repository holds transcriptions of Latvian books printed in Fraktur, in the orthographies
-before the reform of the 1920s: the Skalbe volumes of 1911–1912, and a book of 1850 in the
-older spelling before the 1870s. Each page was read anew with OCR from the scans and corrected by
+before the reform of the 1920s: the Skalbe volumes of 1911–1912, Anna Brigadere's play
+*Sprīdītis* of 1904, and a book of 1850 in the older spelling before the 1870s. Each page was read anew with OCR from the scans and corrected by
 hand against them. The text is **diplomatic**: it keeps the page as printed — line breaks, long
 `ſ`, the stroked letters of the old orthography, accents — and is not normalised toward modern
 Latvian.
@@ -22,6 +23,7 @@ Latvian.
 | [`1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties`](1911-skalbe-ka-es-braucu-ziemelmeitas-lukoties/) | Kārlis Skalbe, *Kā es braucu Ziemeļmeitas lūkoties*. Pēterburga: A. Gulbis, [1911]. Fairy tale, prose. | complete: both proofreadings and the cover; PDFs in the release [`ziemelmeitas-2-lesung`](https://github.com/just-a-book-archivist/latvian-fraktur-books/releases/tag/ziemelmeitas-2-lesung) |
 | [`1911-skalbe-pazemigas-dveseles`](1911-skalbe-pazemigas-dveseles/) | Kārlis Skalbe, *Pazemīgas dvēseles*. Pēterburga: A. Gulbis, 1911. Four stories, prose. | second proofreading complete (punctuation and lines) |
 | [`1850-hugenberger-leelajs-kristaps`](1850-hugenberger-leelajs-kristaps/) | Kārlis Hūgenbergers, *Leelajs Kristaps jeb Kristus-nessejs*. Jelgava: J. W. Steffenhagen un dehls, 1850. The legend of St Christopher, verse. Older orthography, see its README. | complete: both proofreadings, the cover and the title page; PDFs in the release [`kristaps-2-lesung`](https://github.com/just-a-book-archivist/latvian-fraktur-books/releases/tag/kristaps-2-lesung) |
+| [`1904-brigadere-spriditis`](1904-brigadere-spriditis/) | Anna Brigadere, *Sprīdītis*. Rīga: G. Schönfeldt, 1904. Fairy-tale play in seven tableaux. | second proofreading complete (punctuation and lines), the cover and the title page |
 | [`1912-skalbe-sapni-un-teikas`](1912-skalbe-sapni-un-teikas/) | Kārlis Skalbe, *Sapņi un teikas. Dzejoļi*. Pēterburga: A. Gulbis, [1912]. Poems. | complete: both proofreadings and the cover; PDFs in the release [`sapni-2-lesung`](https://github.com/just-a-book-archivist/latvian-fraktur-books/releases/tag/sapni-2-lesung) |
 
 Each folder has a `README.md` with the book's details, its source scans and what is still to be
@@ -30,11 +32,13 @@ done.
 ## How the texts are made
 
 1. **Scans** from the Internet Archive (University of Toronto copies) and from the National
-   Library of Latvia (the 1850 book, and three pages of *Pazemīgas dvēseles*). `pages.tsv` in each book folder says which image
+   Library of Latvia (the 1850 book, *Sprīdītis*, and three pages of *Pazemīgas dvēseles*). `pages.tsv` in each book folder says which image
    is which printed page, so every line can be checked against the print.
 2. **OCR** with Tesseract and the Fraktur model `frak2021`, with every dictionary switched off,
    so that nothing is "corrected" toward German or modern Latvian. The result is only a draft:
    the model does not know the stroked letters (`ꞩ ꞥ ł ꞧ ꞣ ꞡ`) and misreads most accents.
+   *Sprīdītis* was read with a model fine-tuned on the confirmed lines of the Skalbe volumes,
+   which knows them; its reading is a draft all the same.
 3. **First proofreading:** every word of a book is shown as a cut-out from the scan next to its
    transcription and confirmed or corrected by a person; each stroke and accent is decided at the
    image. Nothing in the text was corrected automatically.
@@ -70,6 +74,7 @@ Columns: `page` (file name without `.txt`), `kind`, `place`, `note`. The kinds:
 | `ocr` | a misreading of the OCR that was put right (the transcription follows the scan) |
 | `reading` | a doubtful letter and how it was decided |
 | `text` | the text itself, e.g. a German quotation inside a Latvian poem |
+| `corrected` | a place where the transcription departs from the print, and why (e.g. a bracket the printer left open, closed) |
 
 In `place`, `Z.` means line (*Zeile*) and `Wort` word; `Z. 28, Wort 1` is the first word of line 28.
 The notes are written in German; a translation may follow.
@@ -97,7 +102,8 @@ Junicode.
 
 ## Licence
 
-The books are in the public domain (Kārlis Skalbe died in 1945). The transcriptions, notes,
+The books are in the public domain (Kārlis Skalbe died in 1945, Anna Brigadere in 1933,
+Kārlis Hūgenbergers in 1860). The transcriptions, notes,
 guidelines and the lexicon are published under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), see `LICENSE`. How to cite:
 `CITATION.cff`, or "Cite this repository" on GitHub.
