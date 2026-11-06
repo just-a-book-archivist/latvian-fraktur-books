@@ -31,6 +31,21 @@ scan and confirmed or corrected; every stroke and accent decided at the image.
 The cover (`transcription/cover.txt`), the title page (p. 1) and the censor's permit and
 printer's imprint on its back (p. 2) were read at the image (6 November 2026).
 
+## PDFs and plain text
+
+Typeset versions are attached to the release
+[`spriditis-2-lesung`](https://github.com/just-a-book-archivist/latvian-fraktur-books/releases/tag/spriditis-2-lesung)
+(6 November 2026). A reading version (the play set anew: each speech a paragraph, the speaker's
+name letter-spaced and the stage directions in smaller type, as in the print; each tableau on a
+new page after its list of characters; a table of contents) and a diplomatic version (the cover,
+the title page, the censor's permit and imprint, and every printed page line by line), each in
+roman type and in Fraktur, as PDF/A, and both as plain text. In the Fraktur PDFs the stroked
+letters are drawn over their base letter, so their text layer holds the base letter (`ſ` for
+`ꞩ`).
+
+The repository as it stood at this release is archived on Zenodo, citable as
+[doi:10.5281/zenodo.24010956](https://doi.org/10.5281/zenodo.24010956).
+
 ## Notes on the print
 
 - Where the print itself leaves a bracket or a quotation mark open, it is closed in the
