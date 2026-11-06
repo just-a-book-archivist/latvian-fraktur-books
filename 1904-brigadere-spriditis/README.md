@@ -35,7 +35,8 @@ printer's imprint on its back (p. 2) were read at the image (6 November 2026).
 
 Typeset versions are attached to the release
 [`spriditis-2-lesung`](https://github.com/just-a-book-archivist/latvian-fraktur-books/releases/tag/spriditis-2-lesung)
-(6 November 2026). A reading version (the play set anew: each speech a paragraph, the speaker's
+and on the Internet Archive (6 November 2026):
+<https://archive.org/details/brigadere-1904-spriditis-edition>. A reading version (the play set anew: each speech a paragraph, the speaker's
 name letter-spaced and the stage directions in smaller type, as in the print; each tableau on a
 new page after its list of characters; a table of contents) and a diplomatic version (the cover,
 the title page, the censor's permit and imprint, and every printed page line by line), each in
